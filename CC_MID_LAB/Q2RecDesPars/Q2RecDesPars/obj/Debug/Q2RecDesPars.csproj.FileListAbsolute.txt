@@ -1,0 +1,9 @@
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\bin\Debug\Q2RecDesPars.exe.config
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\bin\Debug\Q2RecDesPars.exe
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\bin\Debug\Q2RecDesPars.pdb
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.csprojResolveAssemblyReference.cache
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.Form1.resources
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.Properties.Resources.resources
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.csproj.GenerateResource.Cache
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.exe
+c:\users\abdul\onedrive\documents\visual studio 2013\Projects\Q2RecDesPars\Q2RecDesPars\obj\Debug\Q2RecDesPars.pdb
